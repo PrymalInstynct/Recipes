@@ -1,4 +1,5 @@
-# [Carbonara by Joshua Weissman](https://www.youtube.com/watch?v=os6k27gjbq4)
+# Carbonara by Joshua Weissman
+[Reference](https://www.youtube.com/watch?v=os6k27gjbq4)
 
 ## Equipment
 - Large Pot
